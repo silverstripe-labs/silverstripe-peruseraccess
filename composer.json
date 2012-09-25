@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe-labs/peruseraccess",
+	"description": "Adds control for more granular permissions.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "peruseraccess", "security", "user management"],
+	"authors": [
+	{
+		"name": "Luke Hudson",
+		"email": "luke@silverstripe.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4.*"
+	}
+}
